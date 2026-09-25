@@ -1,4 +1,4 @@
-# test_app
+# safeguard_app
 
 A new Flutter project.
 
